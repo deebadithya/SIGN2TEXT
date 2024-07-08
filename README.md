@@ -5,4 +5,4 @@ detects idle and gesturing state.
 light-weighted model.
 
 
-*** this a base version of the gestnet project ***
+*** this is an base version of the gestnet project ***
